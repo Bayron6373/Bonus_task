@@ -48,7 +48,7 @@ This project scrapes population data of countries from Wikipedia, cleans it, and
 
 ## **Kafka Producer**
 
-- **Topic Name:** `test2`
+- **Topic Name:** `bonus_22B030147`
 - Each row is sent as a JSON message.
 - **Sample message:**
 
