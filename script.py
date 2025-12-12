@@ -53,7 +53,7 @@ producer = KafkaProducer(
     value_serializer =lambda v: json.dumps(v).encode('utf-8')
 )
 
-topic_name = "test2"
+topic_name = "bonus_22B030147"
 
 try:
     for index, row in df.iterrows():
